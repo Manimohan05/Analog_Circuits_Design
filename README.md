@@ -1,4 +1,4 @@
-# EN3013 Analog Circuit Design Project
+# Analog Circuit Design Project
 
 This repository contains the implementation and documentation for five analog circuit designs completed. The circuits include a Ring Oscillator, Voltage Controlled Oscillator (VCO), Wien Bridge Oscillator, Analog Mixer, and Linear Power Supply. Each circuit was designed, simulated, and tested to meet specific objectives, using tools like LT Spice XVII for simulations.
 
